@@ -1,4 +1,4 @@
-# Case Bravium — Classificação de Reviews
+# Case — Classificação de Reviews
 
 ## 📝 Descrição do Projeto
 
